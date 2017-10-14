@@ -1,0 +1,7 @@
+[{
+	"buildings": {
+		"model": "http://...",
+		"location": [0, 0, 0],
+		"name": "name..."
+	}
+}]
