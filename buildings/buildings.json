@@ -1,7 +1,7 @@
 [{
 	"buildings": [
 		{
-			"model": "https://cdn.rawgit.com/geofs-plugins/aircraft-warehouse/a00f9c7f/buildings/LLBG_T3.glb",
+			"model": "https://cdn.jsdelivr.net/gh/geofs-plugins/aircraft-warehouse@a00f9c7f/buildings/LLBG_T3.glb",
 			"location": [32.002969, 34.872294, 0],
 			"name": "Ben Gurion Intl. Airport Terminal 3"
 		}
