@@ -259,7 +259,7 @@
                 "parent":"body",
                 "type":"airfoil",
                 "model":"leftInnerSpoiler.glb",
-                "liftFactor":-1,
+                "liftFactor":-11,
                 "dragFactor":1.5,
                 "forceDirection":"Z",
                 "points":{
